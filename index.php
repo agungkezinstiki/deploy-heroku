@@ -6,8 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    Welcome to my first page added text yeah yeah
-    <b>Basker</b>
-    <i>Larocca</i>
+    <header></header>
+    <main>
+        <section id="jumbotron">Ini jumbotron</section>
+    </main>
+    <footer></footer>
 </body>
 </html>
